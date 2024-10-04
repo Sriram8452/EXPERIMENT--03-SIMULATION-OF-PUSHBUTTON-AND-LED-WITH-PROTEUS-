@@ -310,7 +310,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 
-## Output screen shots of proteus  :
+## Output screen shots of Proteus  :
 ### BEFORE
 ![pmc_ex3_before](https://github.com/user-attachments/assets/674e5ddc-eef0-49b3-aa8d-dc3ec920f419)
 
